@@ -15,8 +15,8 @@
           "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
         }
       },
-      "commerce-b2b-enabled": false,
-      "commerce-companies-enabled": false,
+      "commerce-b2b-enabled": true,
+      "commerce-companies-enabled": true,
       "commerce-assets-enabled": true,
       "adobe-commerce-optimizer": false,
       "analytics": {
