@@ -1,2 +1,7 @@
 mountpoints:
-  /: https://da.live/#/prateekeds/saara-storefront/
+  /:
+    url: https://content.da.live/prateekeds/saara-storefront/
+    type: markup
+ 
+folders:
+  /products/: /products/default
